@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cm:jar">
+    <output-path>$USER_HOME$/Desktop/servidor/plugins</output-path>
+    <root id="archive" name="cm.jar">
+      <element id="module-output" name="cm" />
+    </root>
+  </artifact>
+</component>
